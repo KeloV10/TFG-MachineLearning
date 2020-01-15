@@ -1,4 +1,4 @@
-Treball Final de Grau de l'alumne Miquel Vallverdú Esteve. 
+Treball Final de Grau de l'alumne Miquel Vallverdú Esteve. Amb NIU 1430775
 
 Grau en estadística aplicada en la Universitat Autònoma de Barcelona.
 
