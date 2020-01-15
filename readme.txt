@@ -1,15 +1,11 @@
-Treball Final de Grau de l'alumne Miquel Vallverdú Esteve. 
+Treball Final de Grau de l'alumne Miquel VallverdÃº Esteve. 
 
-Grau en estadística aplicada en la Universitat Autònoma de Barcelona.
+Grau en estadÃ­stica aplicada en la Universitat AutÃ²noma de Barcelona.
 
-En aquest repositori podeu trobar el document .pdf, el contingut del qual és el que es presenta 
-a la universitat.
+En aquest repositori podeu trobar el document .pdf, el contingut del qual Ã©s el que es presenta a la universitat.
 
-En la carpeta 'notebooks' hi han tots els fitxers .ipynb que s'han fet servir per a desenvolupar el 
-treball. A l'inici de cada un d'ells hi ha un petit índex amb tot el que podeu trobar. 
-En el document .pdf també podeu trobar quins notebooks s'han utilitzat, amb un petit comentari en 
-l'inici de cada apartat.
+En la carpeta 'notebooks' hi han tots els fitxers .ipynb que s'han fet servir per a desenvolupar el treball. A l'inici de cada un d'ells hi ha un petit Ã­ndex amb tot el que podeu trobar. 
+En el document .pdf tambÃ© podeu trobar quins notebooks s'han utilitzat, amb un petit comentari en l'inici de cada apartat.
 
-En la carpeta 'datasets' hi han tots els fitxers .csv que contenen totes les dades necessàries per al
-desenvolupament del treball, també degudament comentat en el document .pdf.
+En la carpeta 'datasets' hi han tots els fitxers .csv que contenen totes les dades necessÃ ries per al desenvolupament del treball, tambÃ© degudament comentat en el document .pdf.
 
